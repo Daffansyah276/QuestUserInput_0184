@@ -55,3 +55,7 @@ fun FormDataDiri(modifier: Modifier){
                 textNama = it
             }
         )
+        Row {
+
+    }
+}
